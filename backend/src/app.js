@@ -5,7 +5,7 @@ const routes = require('./routes/testRoutes.js')
 const userRoutes = require('./routes/userRoutes.js');
 const testRoutes = require('./routes/testRoutes.js')
 // CONSTANTS
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // APP INIT
 const app = express();
