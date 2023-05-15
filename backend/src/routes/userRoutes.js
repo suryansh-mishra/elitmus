@@ -46,7 +46,7 @@ router.route('/login').post((req, res) => {
         if (result) {
           const token = jwt.sign({ email }, process.env.JWT_SECRET, { expiresIn: '7d' });
           res.status(200).json({
-            status: 'success', token: token
+            status: 'success', message: 'Successfully logged in', token: token
           });
         }
         else
