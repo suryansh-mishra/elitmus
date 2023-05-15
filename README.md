@@ -22,4 +22,4 @@ The various skills assessed are :
 ### Logical thinking and Problem Solving
 ### Riddles and Attentiveness
 
-## The backend is composed of the API for the application while the frontend makes calls to backend inorder to insert and update information.
+#### The backend is composed of the API for the application while the frontend makes calls to backend inorder to insert and update information.
