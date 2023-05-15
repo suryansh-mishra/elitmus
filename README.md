@@ -23,3 +23,8 @@ The various skills assessed are :
 ### Riddles and Attentiveness
 
 #### The backend is composed of the API for the application while the frontend makes calls to backend inorder to insert and update information.
+  
+  > **_NOTE:_** 
+  > Admin account credentials :
+  > email - admin@gmail.com
+  > password - passkey
